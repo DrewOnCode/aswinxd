@@ -43,26 +43,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinxd&theme=highcontrast" alt="GitHub Streak Stats">
 </p>
 
----
-
-<h2 align="center">💥 Contributions</h2>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=aswinxd&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
-</p>
 
 ---
 
 <h2 align="center">🔗 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="blank">
+  <a href="https://www.linkedin.com/in/aswinps/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="https://twitter.com/yourtwitter" target="blank">
     <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white">
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:psaswin70@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
